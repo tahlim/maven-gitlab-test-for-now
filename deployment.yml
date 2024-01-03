@@ -31,7 +31,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: tarankapoor/vrsn-backend:latest
+        image: tahlim85/maven-project-war-file:latest
         imagePullPolicy: Always
         resources: {}
         ports:
